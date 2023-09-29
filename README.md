@@ -1,2 +1,2 @@
 # rubricaWPF
-Applicazione sviluppata in WBF
+Applicazione sviluppata in WP
